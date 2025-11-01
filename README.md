@@ -17,7 +17,7 @@ Through this analysis, we aim to discover whether **company size significantly i
 ---
 
 ## 📁 Dataset
-- **Source:** [Kaggle – Job Description and Salary in Indonesia](https://www.kaggle.com/datasets/canggih/jog-description-and-salary-in-indonesia?select=test.csv)
+- **Source:** [Kaggle Job Description and Salary in Indonesia](https://www.kaggle.com/datasets/canggih/jog-description-and-salary-in-indonesia?select=test.csv)
 - **Data Type:** CSV file containing job descriptions, company size, and salary information  
 - **Scope:** Salaries from various industries and company sizes across Indonesia  
 
@@ -27,6 +27,7 @@ Through this analysis, we aim to discover whether **company size significantly i
 | Tool | Purpose |
 |------|----------|
 | 🐍 **Python (Pandas, NumPy)** | Data cleaning and preprocessing |
+| 🐍 **Python (Matplotlib, Seaborn)** | Plotting and visualization |
 | 📊 **Tableau Public** | Visualization and dashboard creation |
 | 📘 **Jupyter Notebook** | Analysis and experimentation |
 | 💾 **Kaggle Dataset** | Source of raw data |
@@ -39,11 +40,12 @@ Through this analysis, we aim to discover whether **company size significantly i
 - Removed outliers for better visualization  
 - Exported the cleaned dataset for Tableau visualization  
 
+  []data_preprocessing.ipynb
 ---
 
 ## 📈 Visualizations (Tableau Public)
 Explore the interactive dashboards here:  
-- [Distribution by Company Size](https://public.tableau.com/app/profile/aaron.adriano/viz/DataAnalytics_17496557297130/Sheet1?publish=yes)  
+<img src="Distribution.png" width="600">  
 - [Median Salary per Company Size](https://public.tableau.com/app/profile/aaron.adriano/viz/DataAnalytics2_17496558226180/Sheet2?publish=yes)  
 - [Average Salary Treemap](https://public.tableau.com/app/profile/aaron.adriano/viz/DataAnalyticsData3/Sheet3?publish=yes)  
 - [Career Level Median Salary](https://public.tableau.com/app/profile/aaron.adriano/viz/DataAnalytics4_17496560193200/Sheet4)  
