@@ -37,19 +37,32 @@ Through this analysis, we aim to discover whether **company size significantly i
 ## ⚙️ Data Preprocessing
 - Handled missing or inconsistent data entries  
 - Cleaned company size categories  
-- Removed outliers for better visualization  
-- Exported the cleaned dataset for Tableau visualization  
+- Removed outliers for better visualization   
 
-  []data_preprocessing.ipynb
+See pre processing ipynb file here :
+[data_preprocessing.ipynb](https://github.com/edricemerson/company-size-vs-salary/blob/main/data_preprocessing.ipynb)
+
+## ⚙️ Data analysis, Data Visualization and Plotting with matplotlib & Tableau
+
+See the whole ipynb file here :
+[ProjectData_Analytics.ipynb](https://github.com/edricemerson/company-size-vs-salary/blob/main/ProjectData_Analytics.ipynb)
+
 ---
 
 ## 📈 Visualizations (Tableau Public)
 Explore the interactive dashboards here:  
-<img src="Distribution.png" width="600">  
+- [Distribution by Company Size](https://public.tableau.com/app/profile/aaron.adriano/viz/DataAnalytics_17496557297130/Sheet1?publish=yes)  
 - [Median Salary per Company Size](https://public.tableau.com/app/profile/aaron.adriano/viz/DataAnalytics2_17496558226180/Sheet2?publish=yes)  
 - [Average Salary Treemap](https://public.tableau.com/app/profile/aaron.adriano/viz/DataAnalyticsData3/Sheet3?publish=yes)  
 - [Career Level Median Salary](https://public.tableau.com/app/profile/aaron.adriano/viz/DataAnalytics4_17496560193200/Sheet4)  
 - [Dashboard Overview](https://public.tableau.com/app/profile/aaron.adriano/viz/DataAnalyticsDashboard_17496561131440/Dashboard1)  
+
+<details>
+  <summary>Picture of Tableau ( Non Interactive )</summary>
+## Distribution by Company Size
+<img src="Distribution" width = "600">
+
+</details>
 
 ---
 
