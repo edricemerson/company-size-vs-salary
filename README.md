@@ -58,9 +58,21 @@ Explore the interactive dashboards here:
 - [Dashboard Overview](https://public.tableau.com/app/profile/aaron.adriano/viz/DataAnalyticsDashboard_17496561131440/Dashboard1)  
 
 <details>
-  <summary>Picture of Tableau ( Non Interactive )</summary>
-## Distribution by Company Size
-<img src="Distribution" width = "600">
+  <summary> ## Picture of Tableau ( Non Interactive )</summary>
+### Distribution by Company Size
+<img src="Distribution.png" width = "600">
+
+### Median Salary per Company Size
+<img src="Median.png" width = "600">
+
+### Average Salary Treemap
+<img src="Average.png" width = "600">
+
+### Career Level Median Salary
+<img src="Median Career.png" width = "600">
+
+### Dashboard Overview
+<img src="OverallDashboard.png" width = "600">
 
 </details>
 
