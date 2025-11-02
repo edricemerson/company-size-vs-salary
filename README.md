@@ -58,7 +58,8 @@ Explore the interactive dashboards here:
 - [Dashboard Overview](https://public.tableau.com/app/profile/aaron.adriano/viz/DataAnalyticsDashboard_17496561131440/Dashboard1)  
 
 <details>
-  <summary> ## Picture of Tableau ( Non Interactive )</summary>
+  <summary>## Picture of Tableau ( Non Interactive )</summary>
+  
 ### Distribution by Company Size
 <img src="Distribution.png" width = "600">
 
